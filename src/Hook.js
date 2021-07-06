@@ -1,0 +1,1 @@
+export const useObjectMap = (obj) => Object.entries(obj);
